@@ -2,7 +2,7 @@
 This repository contains ping-pong-ball game developed in C++ using graphics.h. Left player controls are keys A and Z and right player controls are keys UP Arrow key and DOWN Arrow key. 
 
 ## Game
-![Game](Output/game.png)
+![image alt](Output/game.png)
 
 ## Game Over
 ![GameOver](Output/gameOver.png)
