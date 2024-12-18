@@ -5,4 +5,4 @@ This repository contains ping-pong-ball game developed in C++ using graphics.h. 
 ![Output/game.png](https://github.com/suzaankhan/Ping-Pong-Game/blob/0591f82ba2eb61c15a0b33d39247ff68f55e6e14/Ping%20Pong%20Game/Output/game.png)
 
 ## Game Over
-![GameOver](Output/gameOver.png)
+![Output/gameOver.png](https://github.com/suzaankhan/Ping-Pong-Game/blob/7594daa285d8c6926f54ee3499db6e66cc496316/Ping%20Pong%20Game/Output/gameOver.png)
